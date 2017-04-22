@@ -1,5 +1,0 @@
-[{"m_SourceAsset":".\/Test\/TestLink.txt","m_RemotePath":".m_Crap","m_LocalPath":".m_Crap"}]
-
-{
-    "m_Test": 1
-}

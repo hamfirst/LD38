@@ -1,0 +1,22 @@
+[]
+
+{
+    "m_Textures": {
+        "0": {
+            "m_Filename": ".\/Images\/test-tile01.png",
+            "m_FrameWidth": 16,
+            "m_FrameHeight": 16
+        }
+    },
+    "m_Animations": {
+        "0": {
+            "m_Name": "Animation",
+            "m_Frames": {
+                "0": {
+                    "m_FrameId": "4469707005350641664",
+                    "m_FrameDuration": 5
+                }
+            }
+        }
+    }
+}

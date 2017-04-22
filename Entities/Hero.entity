@@ -1,0 +1,11 @@
+[]
+
+{
+    "m_Sprite": ".\/Sprites\/Hero.sprite",
+    "m_Components": {
+        "0": {
+            "T": 3563997238,
+            "D": { }
+        }
+    }
+}
