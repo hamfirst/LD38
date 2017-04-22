@@ -1,0 +1,34 @@
+[]
+
+{
+    "m_Textures": {
+        "0": {
+            "m_Filename": ".\/Images\/Effects\/FX_Dust01.png",
+            "m_FrameWidth": 16,
+            "m_FrameHeight": 16
+        }
+    },
+    "m_Animations": {
+        "0": {
+            "m_Name": "Dust",
+            "m_Frames": {
+                "0": {
+                    "m_FrameId": "16875480552470216704",
+                    "m_FrameDuration": 6
+                },
+                "1": {
+                    "m_FrameId": "16875480552470216705",
+                    "m_FrameDuration": 7
+                },
+                "2": {
+                    "m_FrameId": "16875480552470216706",
+                    "m_FrameDuration": 7
+                },
+                "3": {
+                    "m_FrameId": "16875480552470216707",
+                    "m_FrameDuration": 7
+                }
+            }
+        }
+    }
+}
