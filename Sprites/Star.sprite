@@ -1,0 +1,34 @@
+[]
+
+{
+    "m_Textures": {
+        "0": {
+            "m_Filename": ".\/Images\/Effects\/star01.png",
+            "m_FrameWidth": 16,
+            "m_FrameHeight": 16
+        }
+    },
+    "m_Animations": {
+        "0": {
+            "m_Name": "Star_Spin",
+            "m_Frames": {
+                "0": {
+                    "m_FrameId": "8383019852410912768",
+                    "m_FrameDuration": 11
+                },
+                "1": {
+                    "m_FrameId": "8383019852410912769",
+                    "m_FrameDuration": 11
+                },
+                "2": {
+                    "m_FrameId": "8383019852410912770",
+                    "m_FrameDuration": 11
+                },
+                "3": {
+                    "m_FrameId": "8383019852410912769",
+                    "m_FrameDuration": 11
+                }
+            }
+        }
+    }
+}
