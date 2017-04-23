@@ -12,13 +12,13 @@
             "m_FrameWidth": 16,
             "m_FrameHeight": 16
         },
-        "3": {
-            "m_Filename": ".\/Images\/Powerups\/Powerupshadow.png",
+        "2": {
+            "m_Filename": ".\/Images\/Powerups\/Powerup_Speed.png",
             "m_FrameWidth": 16,
             "m_FrameHeight": 16
         },
-        "2": {
-            "m_Filename": ".\/Images\/Powerups\/Powerup_Speed.png",
+        "3": {
+            "m_Filename": ".\/Images\/Powerups\/Powerupshadow.png",
             "m_FrameWidth": 16,
             "m_FrameHeight": 16
         }
@@ -46,20 +46,20 @@
                 }
             }
         },
-        "3": {
-            "m_Name": "Shadow",
-            "m_Frames": {
-                "0": {
-                    "m_FrameId": "18009038506260692992",
-                    "m_FrameDuration": 5
-                }
-            }
-        },
         "2": {
             "m_Name": "SpeedIcon",
             "m_Frames": {
                 "0": {
                     "m_FrameId": "10400144693152186368",
+                    "m_FrameDuration": 5
+                }
+            }
+        },
+        "3": {
+            "m_Name": "Shadow",
+            "m_Frames": {
+                "0": {
+                    "m_FrameId": "18009038506260692992",
                     "m_FrameDuration": 5
                 }
             }
