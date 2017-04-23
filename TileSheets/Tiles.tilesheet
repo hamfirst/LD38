@@ -6,6 +6,11 @@
             "m_Filename": ".\/Images\/test-tile01.png",
             "m_FrameWidth": 16,
             "m_FrameHeight": 16
+        },
+        "1": {
+            "m_Filename": ".\/Images\/tilesheet01.png",
+            "m_FrameWidth": 16,
+            "m_FrameHeight": 16
         }
     }
 }
