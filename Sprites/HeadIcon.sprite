@@ -12,13 +12,13 @@
             "m_FrameWidth": 16,
             "m_FrameHeight": 16
         },
-        "2": {
-            "m_Filename": ".\/Images\/Powerups\/HeadIcon_Speed.png",
+        "3": {
+            "m_Filename": ".\/Images\/Powerups\/HeadIcon_Star.png",
             "m_FrameWidth": 16,
             "m_FrameHeight": 16
         },
-        "3": {
-            "m_Filename": ".\/Images\/Powerups\/HeadIcon_Star.png",
+        "2": {
+            "m_Filename": ".\/Images\/Powerups\/HeadIcon_Speed.png",
             "m_FrameWidth": 16,
             "m_FrameHeight": 16
         },
@@ -53,34 +53,13 @@
                     "m_FrameId": "13203616610578857985",
                     "m_FrameDuration": 8
                 },
-                "3": {
-                    "m_FrameId": "13203616610578857987",
-                    "m_FrameDuration": 8
-                },
                 "2": {
                     "m_FrameId": "13203616610578857986",
                     "m_FrameDuration": 7
-                }
-            }
-        },
-        "2": {
-            "m_Name": "Speed",
-            "m_Frames": {
-                "0": {
-                    "m_FrameId": "118745052481585152",
-                    "m_FrameDuration": 7
-                },
-                "1": {
-                    "m_FrameId": "118745052481585153",
-                    "m_FrameDuration": 7
                 },
                 "3": {
-                    "m_FrameId": "118745052481585155",
-                    "m_FrameDuration": 7
-                },
-                "2": {
-                    "m_FrameId": "118745052481585154",
-                    "m_FrameDuration": 7
+                    "m_FrameId": "13203616610578857987",
+                    "m_FrameDuration": 8
                 }
             }
         },
@@ -95,13 +74,34 @@
                     "m_FrameId": "17568146386610814977",
                     "m_FrameDuration": 10
                 },
-                "3": {
-                    "m_FrameId": "17568146386610814977",
-                    "m_FrameDuration": 10
-                },
                 "2": {
                     "m_FrameId": "17568146386610814978",
                     "m_FrameDuration": 10
+                },
+                "3": {
+                    "m_FrameId": "17568146386610814977",
+                    "m_FrameDuration": 10
+                }
+            }
+        },
+        "2": {
+            "m_Name": "Speed",
+            "m_Frames": {
+                "0": {
+                    "m_FrameId": "118745052481585152",
+                    "m_FrameDuration": 7
+                },
+                "1": {
+                    "m_FrameId": "118745052481585153",
+                    "m_FrameDuration": 7
+                },
+                "2": {
+                    "m_FrameId": "118745052481585154",
+                    "m_FrameDuration": 7
+                },
+                "3": {
+                    "m_FrameId": "118745052481585155",
+                    "m_FrameDuration": 7
                 }
             }
         },
@@ -116,12 +116,12 @@
                     "m_FrameId": "3551835986973425665",
                     "m_FrameDuration": 10
                 },
-                "3": {
-                    "m_FrameId": "3551835986973425665",
-                    "m_FrameDuration": 10
-                },
                 "2": {
                     "m_FrameId": "3551835986973425666",
+                    "m_FrameDuration": 10
+                },
+                "3": {
+                    "m_FrameId": "3551835986973425665",
                     "m_FrameDuration": 10
                 }
             }
