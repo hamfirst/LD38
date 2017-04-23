@@ -12,8 +12,8 @@
             "m_FrameWidth": 16,
             "m_FrameHeight": 16
         },
-        "8": {
-            "m_Filename": ".\/Images\/Effects\/FX_Stars01.png",
+        "2": {
+            "m_Filename": ".\/Images\/Effects\/FX_DashDust-Side.png",
             "m_FrameWidth": 16,
             "m_FrameHeight": 16
         },
@@ -22,8 +22,8 @@
             "m_FrameWidth": 16,
             "m_FrameHeight": 16
         },
-        "2": {
-            "m_Filename": ".\/Images\/Effects\/FX_DashDust-Side.png",
+        "8": {
+            "m_Filename": ".\/Images\/Effects\/FX_Stars01.png",
             "m_FrameWidth": 16,
             "m_FrameHeight": 16
         },
@@ -37,13 +37,18 @@
             "m_FrameWidth": 16,
             "m_FrameHeight": 16
         },
+        "6": {
+            "m_Filename": ".\/Images\/Effects\/FX_SpawnTeleportBlue.png",
+            "m_FrameWidth": 16,
+            "m_FrameHeight": 16
+        },
         "7": {
             "m_Filename": ".\/Images\/Effects\/FX_SpawnTeleportRed.png",
             "m_FrameWidth": 16,
             "m_FrameHeight": 16
         },
-        "6": {
-            "m_Filename": ".\/Images\/Effects\/FX_SpawnTeleportBlue.png",
+        "9": {
+            "m_Filename": ".\/Images\/Effects\/FX_Hit01.png",
             "m_FrameWidth": 16,
             "m_FrameHeight": 16
         }
@@ -60,12 +65,12 @@
                     "m_FrameId": "16875480552470216705",
                     "m_FrameDuration": 6
                 },
-                "3": {
-                    "m_FrameId": "16875480552470216707",
-                    "m_FrameDuration": 7
-                },
                 "2": {
                     "m_FrameId": "16875480552470216706",
+                    "m_FrameDuration": 7
+                },
+                "3": {
+                    "m_FrameId": "16875480552470216707",
                     "m_FrameDuration": 7
                 }
             }
@@ -81,46 +86,12 @@
                     "m_FrameId": "12506983210204266497",
                     "m_FrameDuration": 6
                 },
-                "2": {
-                    "m_FrameId": "12506983210204266498",
-                    "m_FrameDuration": 7
-                },
                 "3": {
                     "m_FrameId": "12506983210204266499",
                     "m_FrameDuration": 7
-                }
-            }
-        },
-        "8": {
-            "m_Name": "Red_TeleportStart",
-            "m_Frames": {
-                "0": {
-                    "m_FrameId": "8811794404734926848",
-                    "m_FrameDuration": 5
-                }
-            }
-        },
-        "3": {
-            "m_Name": "DashVertical",
-            "m_Frames": {
-                "0": {
-                    "m_FrameId": "12313743491866820608",
-                    "m_FrameDuration": 3
-                },
-                "1": {
-                    "m_FrameId": "12313743491866820609",
-                    "m_FrameDuration": 5
                 },
                 "2": {
-                    "m_FrameId": "12313743491866820610",
-                    "m_FrameDuration": 6
-                },
-                "3": {
-                    "m_FrameId": "12313743491866820611",
-                    "m_FrameDuration": 7
-                },
-                "4": {
-                    "m_FrameId": "12313743491866820612",
+                    "m_FrameId": "12506983210204266498",
                     "m_FrameDuration": 7
                 }
             }
@@ -136,17 +107,51 @@
                     "m_FrameId": "2886912514828795905",
                     "m_FrameDuration": 5
                 },
-                "2": {
-                    "m_FrameId": "2886912514828795906",
-                    "m_FrameDuration": 6
-                },
                 "3": {
                     "m_FrameId": "2886912514828795907",
                     "m_FrameDuration": 7
                 },
+                "2": {
+                    "m_FrameId": "2886912514828795906",
+                    "m_FrameDuration": 6
+                },
                 "4": {
                     "m_FrameId": "2886912514828795908",
                     "m_FrameDuration": 8
+                }
+            }
+        },
+        "3": {
+            "m_Name": "DashVertical",
+            "m_Frames": {
+                "0": {
+                    "m_FrameId": "12313743491866820608",
+                    "m_FrameDuration": 3
+                },
+                "1": {
+                    "m_FrameId": "12313743491866820609",
+                    "m_FrameDuration": 5
+                },
+                "3": {
+                    "m_FrameId": "12313743491866820611",
+                    "m_FrameDuration": 7
+                },
+                "2": {
+                    "m_FrameId": "12313743491866820610",
+                    "m_FrameDuration": 6
+                },
+                "4": {
+                    "m_FrameId": "12313743491866820612",
+                    "m_FrameDuration": 7
+                }
+            }
+        },
+        "8": {
+            "m_Name": "Red_TeleportStart",
+            "m_Frames": {
+                "0": {
+                    "m_FrameId": "8811794404734926848",
+                    "m_FrameDuration": 5
                 }
             }
         },
@@ -161,13 +166,13 @@
                     "m_FrameId": "3062755408004251649",
                     "m_FrameDuration": 7
                 },
-                "2": {
-                    "m_FrameId": "3062755408004251650",
-                    "m_FrameDuration": 9
-                },
                 "3": {
                     "m_FrameId": "3062755408004251651",
                     "m_FrameDuration": 8
+                },
+                "2": {
+                    "m_FrameId": "3062755408004251650",
+                    "m_FrameDuration": 9
                 }
             }
         },
@@ -182,13 +187,22 @@
                     "m_FrameId": "17587712518149636097",
                     "m_FrameDuration": 6
                 },
-                "2": {
-                    "m_FrameId": "17587712518149636098",
-                    "m_FrameDuration": 5
-                },
                 "3": {
                     "m_FrameId": "17587712518149636099",
                     "m_FrameDuration": 7
+                },
+                "2": {
+                    "m_FrameId": "17587712518149636098",
+                    "m_FrameDuration": 5
+                }
+            }
+        },
+        "6": {
+            "m_Name": "Blue_TeleportStart",
+            "m_Frames": {
+                "0": {
+                    "m_FrameId": "1292203016228700160",
+                    "m_FrameDuration": 5
                 }
             }
         },
@@ -206,15 +220,6 @@
                 "2": {
                     "m_FrameId": "1292203016228700163",
                     "m_FrameDuration": 6
-                }
-            }
-        },
-        "6": {
-            "m_Name": "Blue_TeleportStart",
-            "m_Frames": {
-                "0": {
-                    "m_FrameId": "1292203016228700160",
-                    "m_FrameDuration": 5
                 }
             }
         },
@@ -246,13 +251,34 @@
                     "m_FrameId": "4090877506725347329",
                     "m_FrameDuration": 12
                 },
-                "2": {
-                    "m_FrameId": "4090877506725347330",
-                    "m_FrameDuration": 3
-                },
                 "3": {
                     "m_FrameId": "4090877506725347331",
                     "m_FrameDuration": 3
+                },
+                "2": {
+                    "m_FrameId": "4090877506725347330",
+                    "m_FrameDuration": 3
+                }
+            }
+        },
+        "11": {
+            "m_Name": "Hit",
+            "m_Frames": {
+                "0": {
+                    "m_FrameId": "9873620984433475584",
+                    "m_FrameDuration": 3
+                },
+                "1": {
+                    "m_FrameId": "9873620984433475585",
+                    "m_FrameDuration": 4
+                },
+                "2": {
+                    "m_FrameId": "9873620984433475586",
+                    "m_FrameDuration": 5
+                },
+                "3": {
+                    "m_FrameId": "9873620984433475587",
+                    "m_FrameDuration": 4
                 }
             }
         }
