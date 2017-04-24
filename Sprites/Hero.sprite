@@ -17,8 +17,8 @@
             "m_FrameWidth": 18,
             "m_FrameHeight": 18
         },
-        "3": {
-            "m_Filename": ".\/Images\/Hero Blue\/hero-blue-down.png",
+        "8": {
+            "m_Filename": ".\/Images\/Hero Red\/hero-red-DashUp.png",
             "m_FrameWidth": 18,
             "m_FrameHeight": 18
         },
@@ -27,8 +27,8 @@
             "m_FrameWidth": 18,
             "m_FrameHeight": 18
         },
-        "8": {
-            "m_Filename": ".\/Images\/Hero Red\/hero-red-DashUp.png",
+        "3": {
+            "m_Filename": ".\/Images\/Hero Blue\/hero-blue-down.png",
             "m_FrameWidth": 18,
             "m_FrameHeight": 18
         },
@@ -67,13 +67,13 @@
             "m_FrameWidth": 18,
             "m_FrameHeight": 18
         },
-        "19": {
-            "m_Filename": ".\/Images\/Hero Blue\/hero-blue-fall.png",
+        "12": {
+            "m_Filename": ".\/Images\/Hero Red\/hero-red-fall.png",
             "m_FrameWidth": 18,
             "m_FrameHeight": 18
         },
-        "12": {
-            "m_Filename": ".\/Images\/Hero Red\/hero-red-fall.png",
+        "19": {
+            "m_Filename": ".\/Images\/Hero Blue\/hero-blue-fall.png",
             "m_FrameWidth": 18,
             "m_FrameHeight": 18
         },
@@ -134,12 +134,12 @@
                     "m_FrameId": "5244229946875838465",
                     "m_FrameDuration": 7
                 },
-                "2": {
-                    "m_FrameId": "5244229946875838466",
-                    "m_FrameDuration": 7
-                },
                 "3": {
                     "m_FrameId": "5244229946875838465",
+                    "m_FrameDuration": 7
+                },
+                "2": {
+                    "m_FrameId": "5244229946875838466",
                     "m_FrameDuration": 7
                 }
             }
@@ -172,54 +172,12 @@
                     "m_FrameId": "12680856126435098625",
                     "m_FrameDuration": 7
                 },
-                "3": {
-                    "m_FrameId": "12680856126435098625",
-                    "m_FrameDuration": 7
-                },
                 "2": {
                     "m_FrameId": "12680856126435098626",
                     "m_FrameDuration": 7
-                }
-            }
-        },
-        "3": {
-            "m_Name": "Hero_Blue_Down",
-            "m_Frames": {
-                "0": {
-                    "m_FrameId": "4436904561994629120",
-                    "m_FrameDuration": 7
-                },
-                "1": {
-                    "m_FrameId": "4436904561994629121",
-                    "m_FrameDuration": 7
-                },
-                "2": {
-                    "m_FrameId": "4436904561994629122",
-                    "m_FrameDuration": 7
                 },
                 "3": {
-                    "m_FrameId": "4436904561994629121",
-                    "m_FrameDuration": 7
-                }
-            }
-        },
-        "2": {
-            "m_Name": "Hero_Red_Up",
-            "m_Frames": {
-                "0": {
-                    "m_FrameId": "18409848028304244736",
-                    "m_FrameDuration": 7
-                },
-                "1": {
-                    "m_FrameId": "18409848028304244737",
-                    "m_FrameDuration": 7
-                },
-                "3": {
-                    "m_FrameId": "18409848028304244737",
-                    "m_FrameDuration": 7
-                },
-                "2": {
-                    "m_FrameId": "18409848028304244738",
+                    "m_FrameId": "12680856126435098625",
                     "m_FrameDuration": 7
                 }
             }
@@ -241,6 +199,48 @@
                 }
             }
         },
+        "2": {
+            "m_Name": "Hero_Red_Up",
+            "m_Frames": {
+                "0": {
+                    "m_FrameId": "18409848028304244736",
+                    "m_FrameDuration": 7
+                },
+                "1": {
+                    "m_FrameId": "18409848028304244737",
+                    "m_FrameDuration": 7
+                },
+                "2": {
+                    "m_FrameId": "18409848028304244738",
+                    "m_FrameDuration": 7
+                },
+                "3": {
+                    "m_FrameId": "18409848028304244737",
+                    "m_FrameDuration": 7
+                }
+            }
+        },
+        "3": {
+            "m_Name": "Hero_Blue_Down",
+            "m_Frames": {
+                "0": {
+                    "m_FrameId": "4436904561994629120",
+                    "m_FrameDuration": 7
+                },
+                "1": {
+                    "m_FrameId": "4436904561994629121",
+                    "m_FrameDuration": 7
+                },
+                "3": {
+                    "m_FrameId": "4436904561994629121",
+                    "m_FrameDuration": 7
+                },
+                "2": {
+                    "m_FrameId": "4436904561994629122",
+                    "m_FrameDuration": 7
+                }
+            }
+        },
         "4": {
             "m_Name": "Hero_Blue_Side",
             "m_Frames": {
@@ -252,12 +252,12 @@
                     "m_FrameId": "15757885214002511873",
                     "m_FrameDuration": 7
                 },
-                "2": {
-                    "m_FrameId": "15757885214002511874",
-                    "m_FrameDuration": 7
-                },
                 "3": {
                     "m_FrameId": "15757885214002511873",
+                    "m_FrameDuration": 7
+                },
+                "2": {
+                    "m_FrameId": "15757885214002511874",
                     "m_FrameDuration": 7
                 }
             }
@@ -273,12 +273,12 @@
                     "m_FrameId": "71198707952910337",
                     "m_FrameDuration": 7
                 },
-                "3": {
-                    "m_FrameId": "71198707952910337",
-                    "m_FrameDuration": 7
-                },
                 "2": {
                     "m_FrameId": "71198707952910338",
+                    "m_FrameDuration": 7
+                },
+                "3": {
+                    "m_FrameId": "71198707952910337",
                     "m_FrameDuration": 7
                 }
             }
@@ -368,20 +368,20 @@
                 }
             }
         },
-        "12": {
-            "m_Name": "Hero_Red_Hit_Down",
-            "m_Frames": {
-                "0": {
-                    "m_FrameId": "10042491638154002432",
-                    "m_FrameDuration": 5
-                }
-            }
-        },
         "19": {
             "m_Name": "Hero_Blue_Hit_Up",
             "m_Frames": {
                 "0": {
                     "m_FrameId": "12097515558077988864",
+                    "m_FrameDuration": 5
+                }
+            }
+        },
+        "12": {
+            "m_Name": "Hero_Red_Hit_Down",
+            "m_Frames": {
+                "0": {
+                    "m_FrameId": "10042491638154002432",
                     "m_FrameDuration": 5
                 }
             }
@@ -396,7 +396,7 @@
             }
         },
         "15": {
-            "m_Name": "Hero_Red_PreFall",
+            "m_Name": "Hero_Red_Fall",
             "m_Frames": {
                 "0": {
                     "m_FrameId": "5244229946875838464",
@@ -405,6 +405,10 @@
                 "1": {
                     "m_FrameId": "5263830837584986112",
                     "m_FrameDuration": 10
+                },
+                "2": {
+                    "m_FrameId": "5263830837584986113",
+                    "m_FrameDuration": 5
                 }
             }
         },
@@ -436,7 +440,7 @@
             }
         },
         "20": {
-            "m_Name": "Hero_Blue_PreFall",
+            "m_Name": "Hero_Blue_Fall",
             "m_Frames": {
                 "0": {
                     "m_FrameId": "4436904561994629120",
@@ -445,6 +449,10 @@
                 "1": {
                     "m_FrameId": "4348454314738450432",
                     "m_FrameDuration": 10
+                },
+                "2": {
+                    "m_FrameId": "4348454314738450433",
+                    "m_FrameDuration": 5
                 }
             }
         },
