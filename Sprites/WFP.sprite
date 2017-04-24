@@ -4,7 +4,7 @@
     "m_Textures": {
         "0": {
             "m_Filename": ".\/Images\/UI\/WaitingForPlayers.png",
-            "m_FrameWidth": 128,
+            "m_FrameWidth": 144,
             "m_FrameHeight": 16
         }
     },
@@ -14,15 +14,15 @@
             "m_Frames": {
                 "0": {
                     "m_FrameId": "6030396905517744128",
-                    "m_FrameDuration": 5
+                    "m_FrameDuration": 12
                 },
                 "1": {
                     "m_FrameId": "6030396905517744129",
-                    "m_FrameDuration": 5
+                    "m_FrameDuration": 12
                 },
                 "2": {
                     "m_FrameId": "6030396905517744130",
-                    "m_FrameDuration": 5
+                    "m_FrameDuration": 12
                 }
             }
         }

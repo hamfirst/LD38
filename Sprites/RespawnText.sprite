@@ -1,0 +1,34 @@
+[]
+
+{
+    "m_Textures": {
+        "0": {
+            "m_Filename": ".\/Images\/UI\/respawnText.png",
+            "m_FrameWidth": 80,
+            "m_FrameHeight": 16
+        }
+    },
+    "m_Animations": {
+        "0": {
+            "m_Name": "Respawn",
+            "m_Frames": {
+                "0": {
+                    "m_FrameId": "14189197973061107712",
+                    "m_FrameDuration": 10
+                },
+                "1": {
+                    "m_FrameId": "14189197973061107713",
+                    "m_FrameDuration": 10
+                },
+                "2": {
+                    "m_FrameId": "14189197973061107714",
+                    "m_FrameDuration": 10
+                },
+                "3": {
+                    "m_FrameId": "14189197973061107713",
+                    "m_FrameDuration": 10
+                }
+            }
+        }
+    }
+}

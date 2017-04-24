@@ -1,0 +1,30 @@
+[]
+
+{
+    "m_Textures": {
+        "0": {
+            "m_Filename": ".\/Images\/UI\/JoinGameText.png",
+            "m_FrameWidth": 256,
+            "m_FrameHeight": 144
+        }
+    },
+    "m_Animations": {
+        "0": {
+            "m_Name": "Animation",
+            "m_Frames": {
+                "0": {
+                    "m_FrameId": "16235653587848396800",
+                    "m_FrameDuration": 11
+                },
+                "1": {
+                    "m_FrameId": "16235653587848396801",
+                    "m_FrameDuration": 11
+                },
+                "2": {
+                    "m_FrameId": "16235653587848396802",
+                    "m_FrameDuration": 11
+                }
+            }
+        }
+    }
+}

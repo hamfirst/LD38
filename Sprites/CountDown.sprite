@@ -1,0 +1,86 @@
+[]
+
+{
+    "m_Textures": {
+        "0": {
+            "m_Filename": ".\/Images\/UI\/Countdown3.png",
+            "m_FrameWidth": 32,
+            "m_FrameHeight": 32
+        },
+        "1": {
+            "m_Filename": ".\/Images\/UI\/Countdown2.png",
+            "m_FrameWidth": 32,
+            "m_FrameHeight": 32
+        },
+        "2": {
+            "m_Filename": ".\/Images\/UI\/Countdown1.png",
+            "m_FrameWidth": 32,
+            "m_FrameHeight": 32
+        }
+    },
+    "m_Animations": {
+        "0": {
+            "m_Name": "Three",
+            "m_Frames": {
+                "0": {
+                    "m_FrameId": "15559309346692136960",
+                    "m_FrameDuration": 5
+                },
+                "1": {
+                    "m_FrameId": "15559309346692136961",
+                    "m_FrameDuration": 5
+                },
+                "2": {
+                    "m_FrameId": "15559309346692136962",
+                    "m_FrameDuration": 5
+                },
+                "3": {
+                    "m_FrameId": "15559309346692136963",
+                    "m_FrameDuration": 5
+                }
+            }
+        },
+        "1": {
+            "m_Name": "Two",
+            "m_Frames": {
+                "0": {
+                    "m_FrameId": "16901425397638365184",
+                    "m_FrameDuration": 5
+                },
+                "1": {
+                    "m_FrameId": "16901425397638365185",
+                    "m_FrameDuration": 5
+                },
+                "2": {
+                    "m_FrameId": "16901425397638365186",
+                    "m_FrameDuration": 5
+                },
+                "3": {
+                    "m_FrameId": "16901425397638365187",
+                    "m_FrameDuration": 5
+                }
+            }
+        },
+        "2": {
+            "m_Name": "One",
+            "m_Frames": {
+                "0": {
+                    "m_FrameId": "12478795112207351808",
+                    "m_FrameDuration": 5
+                },
+                "1": {
+                    "m_FrameId": "12478795112207351809",
+                    "m_FrameDuration": 5
+                },
+                "2": {
+                    "m_FrameId": "12478795112207351810",
+                    "m_FrameDuration": 5
+                },
+                "3": {
+                    "m_FrameId": "12478795112207351811",
+                    "m_FrameDuration": 5
+                }
+            }
+        }
+    }
+}
