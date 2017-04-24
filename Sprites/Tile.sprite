@@ -6,14 +6,98 @@
             "m_Filename": ".\/Images\/test-tile01.png",
             "m_FrameWidth": 16,
             "m_FrameHeight": 16
+        },
+        "1": {
+            "m_Filename": ".\/Images\/tilesheet01.png",
+            "m_FrameWidth": 16,
+            "m_FrameHeight": 32
         }
     },
     "m_Animations": {
         "0": {
-            "m_Name": "Animation",
+            "m_Name": "0",
             "m_Frames": {
                 "0": {
-                    "m_FrameId": "4469707005350641664",
+                    "m_FrameId": "4589235670320414720",
+                    "m_FrameDuration": 5
+                }
+            }
+        },
+        "1": {
+            "m_Name": "0_left",
+            "m_Frames": {
+                "0": {
+                    "m_FrameId": "4589235670320414721",
+                    "m_FrameDuration": 5
+                }
+            }
+        },
+        "3": {
+            "m_Name": "1_left",
+            "m_Frames": {
+                "0": {
+                    "m_FrameId": "4589235670320414723",
+                    "m_FrameDuration": 5
+                }
+            }
+        },
+        "2": {
+            "m_Name": "1",
+            "m_Frames": {
+                "0": {
+                    "m_FrameId": "4589235670320414722",
+                    "m_FrameDuration": 5
+                }
+            }
+        },
+        "4": {
+            "m_Name": "0_danger",
+            "m_Frames": {
+                "0": {
+                    "m_FrameId": "4589235670320414724",
+                    "m_FrameDuration": 5
+                },
+                "1": {
+                    "m_FrameId": "4589235670320414720",
+                    "m_FrameDuration": 5
+                }
+            }
+        },
+        "5": {
+            "m_Name": "0_left_danger",
+            "m_Frames": {
+                "0": {
+                    "m_FrameId": "4589235670320414725",
+                    "m_FrameDuration": 5
+                },
+                "1": {
+                    "m_FrameId": "4589235670320414721",
+                    "m_FrameDuration": 5
+                }
+            }
+        },
+        "7": {
+            "m_Name": "1_left_danger",
+            "m_Frames": {
+                "0": {
+                    "m_FrameId": "4589235670320414725",
+                    "m_FrameDuration": 5
+                },
+                "1": {
+                    "m_FrameId": "4589235670320414723",
+                    "m_FrameDuration": 5
+                }
+            }
+        },
+        "6": {
+            "m_Name": "1_danger",
+            "m_Frames": {
+                "0": {
+                    "m_FrameId": "4589235670320414724",
+                    "m_FrameDuration": 5
+                },
+                "1": {
+                    "m_FrameId": "4589235670320414722",
                     "m_FrameDuration": 5
                 }
             }
