@@ -1,0 +1,38 @@
+[]
+
+{
+    "m_Textures": {
+        "0": {
+            "m_Filename": ".\/Images\/UI\/DEFEAT.png",
+            "m_FrameWidth": 96,
+            "m_FrameHeight": 32
+        }
+    },
+    "m_Animations": {
+        "0": {
+            "m_Name": "Defeat",
+            "m_Frames": {
+                "0": {
+                    "m_FrameId": "6242124679948009472",
+                    "m_FrameDuration": 4
+                },
+                "1": {
+                    "m_FrameId": "6242124679948009473",
+                    "m_FrameDuration": 4
+                },
+                "2": {
+                    "m_FrameId": "6242124679948009474",
+                    "m_FrameDuration": 4
+                },
+                "3": {
+                    "m_FrameId": "6242124679948009475",
+                    "m_FrameDuration": 4
+                },
+                "4": {
+                    "m_FrameId": "6242124679948009476",
+                    "m_FrameDuration": 4
+                }
+            }
+        }
+    }
+}

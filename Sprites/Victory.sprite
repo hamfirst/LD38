@@ -1,0 +1,38 @@
+[]
+
+{
+    "m_Textures": {
+        "0": {
+            "m_Filename": ".\/Images\/UI\/VICTORY.png",
+            "m_FrameWidth": 112,
+            "m_FrameHeight": 32
+        }
+    },
+    "m_Animations": {
+        "0": {
+            "m_Name": "Victory",
+            "m_Frames": {
+                "0": {
+                    "m_FrameId": "14194425734239354880",
+                    "m_FrameDuration": 4
+                },
+                "1": {
+                    "m_FrameId": "14194425734239354881",
+                    "m_FrameDuration": 4
+                },
+                "2": {
+                    "m_FrameId": "14194425734239354882",
+                    "m_FrameDuration": 4
+                },
+                "3": {
+                    "m_FrameId": "14194425734239354883",
+                    "m_FrameDuration": 4
+                },
+                "4": {
+                    "m_FrameId": "14194425734239354884",
+                    "m_FrameDuration": 4
+                }
+            }
+        }
+    }
+}
