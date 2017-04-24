@@ -281,6 +281,23 @@
                     "m_FrameDuration": 4
                 }
             }
+        },
+        "12": {
+            "m_Name": "Red_TeleportHitGround_Reverse",
+            "m_Frames": {
+                "0": {
+                    "m_FrameId": "8811794404734926851",
+                    "m_FrameDuration": 5
+                },
+                "1": {
+                    "m_FrameId": "8811794404734926850",
+                    "m_FrameDuration": 5
+                },
+                "2": {
+                    "m_FrameId": "8811794404734926849",
+                    "m_FrameDuration": 5
+                }
+            }
         }
     }
 }
