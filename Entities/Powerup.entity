@@ -1,0 +1,11 @@
+[]
+
+{
+    "m_Sprite": ".\/Sprites\/HeadIcon.sprite",
+    "m_Components": {
+        "0": {
+            "T": 1254234076,
+            "D": { }
+        }
+    }
+}
